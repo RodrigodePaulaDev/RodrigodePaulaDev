@@ -1,5 +1,10 @@
 ### Olá eu sou o Rodrigo de Paula ✋
 
+### Apaixonado por tecnologia.
+### Graduando de Análise e Desenvolvimento de Sistemas.
+### Atualmente focado em Desenvolvimento Web Front-End
+<br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-de-paula-rodrigues-53b450211/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodrigodepauladev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devdepaula/)
@@ -12,6 +17,4 @@
 <img allign="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img allign="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
-Apaixonado por tecnologia.
-Graduando de Análise e Desenvolvimento de Sistemas.<br>
-Atualmente focado em Desenvolvimento Web Front-End
+
