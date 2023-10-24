@@ -1,10 +1,15 @@
 ### Olá eu sou o Rodrigo de Paula Rodrigues ✋
 
-### Analista de Qualidade de Software focado na excelência 🌟 
-### Apaixonado por testes, automação e otimização 
-### Comprometido com a entrega de software de alta qualidade
-### Em busca constante de melhorias e boas práticas 🧪💻 
-### Graduando de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília
+
+Analista de Qualidade de Software focado na excelência 🌟 
+
+Apaixonado por testes, automação e otimização 
+
+Comprometido com a entrega de software de alta qualidade
+
+Em busca constante de melhorias e boas práticas 🧪💻 
+
+Graduando de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília
 
 <br>
 
