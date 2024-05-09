@@ -9,7 +9,7 @@ Comprometido com a entrega de software de alta qualidade
 
 Em busca constante de melhorias e boas práticas 🧪💻 
 
-Graduando de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília
+Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília
 
 <br>
 
